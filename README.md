@@ -8,3 +8,5 @@ To run the program, run the following:
 pip install -r requirements.txt
 python3 main.py
 ```
+
+I will say that this barely worked on a clean slate on my laptop so good luck getting the packages installed!
