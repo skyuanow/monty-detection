@@ -2,6 +2,8 @@
 
 You can detect dog!
 
+You have to pip install a couple things first. 
+
 To run the program, run the following:
 
 ```
